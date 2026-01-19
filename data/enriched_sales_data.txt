@@ -1,0 +1,8 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T066|2024-12-06|P105|Webcam|8|4259.0|C023|West|None|None|0.0|False
+T019|2024-12-24|P104|Monitor|9|16609.0|C024|West|None|None|0.0|False
+T048|2024-12-13|P101|LaptopPremium|5|74819.0|C010|West|None|None|0.0|False
+T038|2024-12-03|P106|Headphones|9|2949.0|C009|West|None|None|0.0|False
+T039|2024-12-18|P104|Monitor|3|23488.0|C008|West|None|None|0.0|False
+T043|2024-12-07|P104|Monitor|4|22700.0|C005|West|None|None|0.0|False
+T047|2024-12-07|P108|External Hard Drive1TB|7|3480.0|C006|West|None|None|0.0|False

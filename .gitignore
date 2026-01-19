@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files (VS Code)
+.vscode/
+
+# Log files
+*.log
+
+# Enriched data (optional, if you want students to generate it instead)
+# data/enriched_sales_data.txt
+
+# Output reports (optional, can be regenerated)
+# output/sales_report.txt
